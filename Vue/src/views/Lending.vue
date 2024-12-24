@@ -1,7 +1,10 @@
 <template>
     <nav class="header">
-        <div class="header-logo">
-            <img src="../assets/logo.svg" alt="img">
+        <div class="header-logoL">
+            <img src="../assets/logoL.svg" alt="img">
+        </div>
+        <div class="header-logoS">
+            <img src="../assets/logomicro.svg" alt="img">
         </div>
         <button class="header-catalog">
             <img class="header-catalog-poloski" src="../assets/poloski.svg" alt="">
@@ -33,7 +36,11 @@
     </nav>
     <div class="header-space"></div>
     <div class="header-ads">
-        <img class="header-ads-picture" src="../assets/adspict.png" alt="">
+
+        <img class="header-ads-picture" src="../assets/adspict1440.png" alt="">
+
+        <img class="header-ads-picture768" src="../assets/adspict768.png" alt="">
+
     </div>
 
     <!-- Контент страницы -->
@@ -427,6 +434,7 @@
 </script>
 
 <style lang="scss">
+
 .header {
     background-color: #fff;
     width: 1324px;
@@ -434,13 +442,17 @@
     padding-left: 116px;
     display: flex;
 
+    
 
-    &-logo {
+    &-logoL {
         width: 152px;
         margin-right: 48px;
         margin-top: 20px;
         margin-bottom: 20px;
         cursor: pointer;
+    }
+    &-logoS{
+        display: none;
     }
 
     &-catalog {
@@ -540,7 +552,13 @@
         background-image: url("..//assets/bgimg.svg");
         background-repeat: no-repeat;
         background-size: cover;
+
+    
+
+    &-picture768{
+        display: none;
     }
+}
 }
 
 .main {
@@ -911,6 +929,77 @@
         margin-left: 133px;
         display: flex;
         justify-content: space-between;
+    }
+}
+
+@media (max-width: 768px) 
+{
+    .header {
+    padding:0px ;
+    background-color: #fff;
+    width: 768px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &-logoL{
+        display: none;
+    }
+    &-logoS{
+        display: block;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    &-catalog{
+        height: 40px;
+        width: 40px;
+        background-color: #70C05B;
+        display: block;
+        border: none;
+        cursor: pointer;
+        &-poloski{
+        padding: 0px 2px;
+        }
+        &-txt{
+            display: none;
+        }
+    }
+    &-search{
+        width: 325px;
+    }
+    &-user{
+        &-name{
+            display: none;
+        }
+    }
+    &-space {
+        height: 4px;
+        background-color: #FBF8EC;
+        width: 768px;
+    }
+    &-ads {
+        height: 160px;
+        width: 768px;
+        background-image: url("..//assets/bgimg.svg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        &-picture{
+            display: none;
+        }
+        &-picture768{
+            display: block;
+            padding: 0px 89.5px
+        }
+        }
+    }
+    .main{
+        width: 768px;
+        padding: 60px 16px;
+        background-color: #FBF8EC;
+        &-geo{
+            width: 395px;
+        }
+        
     }
 }
 </style>
