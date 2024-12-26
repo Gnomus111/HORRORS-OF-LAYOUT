@@ -52,27 +52,27 @@
             </button>
         </div>
         <div class="main-product">
-            <div class="main-product-block">
-                <div class="main-product-block-img">
+            <div class="main-1product-block">
+                <div class="main-1product-block-img">
                     <img src="../assets/sasauges.png" alt="">
                 </div>
-                <div class="main-product-block-price">
-                    <div class="main-product-block-price-withcard">44,50₽
+                <div class="main-1product-block-price">
+                    <div class="main-1product-block-price-withcard">44,50₽
                     </div>
-                    <div class="main-product-block-price-withoutcard">50,50₽
+                    <div class="main-1product-block-price-withoutcard">50,50₽
                     </div>
                 </div>
-                <div class="main-product-block-info">
+                <div class="main-1product-block-info">
                     <span>с картой</span>
                     <span>обычная</span>
                 </div>
-                <p class="main-product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
-                <div class="main-product-block-score">
+                <p class="main-1product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
+                <div class="main-1product-block-score">
                     <img src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/stargray.png" alt="">
                 </div>
-                <button class="main-product-block-btn">В корзину</button>
+                <button class="main-1product-block-btn">В корзину</button>
             </div>
             <div class="main-product-block">
                 <div class="main-product-block-img">
@@ -148,27 +148,27 @@
             </button>
         </div>
         <div class="main-product">
-            <div class="main-product-block">
-                <div class="main-product-block-img">
+            <div class="main-1product-block">
+                <div class="main-1product-block-img">
                     <img src="../assets/sasauges.png" alt="">
                 </div>
-                <div class="main-product-block-price">
-                    <div class="main-product-block-price-withcard">44,50₽
+                <div class="main-1product-block-price">
+                    <div class="main-1product-block-price-withcard">44,50₽
                     </div>
-                    <div class="main-product-block-price-withoutcard">50,50₽
+                    <div class="main-1product-block-price-withoutcard">50,50₽
                     </div>
                 </div>
-                <div class="main-product-block-info">
+                <div class="main-1product-block-info">
                     <span>с картой</span>
                     <span>обычная</span>
                 </div>
-                <p class="main-product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
-                <div class="main-product-block-score">
+                <p class="main-1product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
+                <div class="main-1product-block-score">
                     <img src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/stargray.png" alt="">
                 </div>
-                <button class="main-product-block-btn">В корзину</button>
+                <button class="main-1product-block-btn">В корзину</button>
             </div>
             <div class="main-product-block">
                 <div class="main-product-block-img">
@@ -244,27 +244,27 @@
             </button>
         </div>
         <div class="main-product">
-            <div class="main-product-block">
-                <div class="main-product-block-img">
+            <div class="main-1product-block">
+                <div class="main-1product-block-img">
                     <img src="../assets/sasauges.png" alt="">
                 </div>
-                <div class="main-product-block-price">
-                    <div class="main-product-block-price-withcard">44,50₽
+                <div class="main-1product-block-price">
+                    <div class="main-1product-block-price-withcard">44,50₽
                     </div>
-                    <div class="main-product-block-price-withoutcard">50,50₽
+                    <div class="main-1product-block-price-withoutcard">50,50₽
                     </div>
                 </div>
-                <div class="main-product-block-info">
+                <div class="main-1product-block-info">
                     <span>с картой</span>
                     <span>обычная</span>
                 </div>
-                <p class="main-product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
-                <div class="main-product-block-score">
+                <p class="main-1product-block-description">Сосиски вареные МЯСНАЯ ИСТОРИЯ Молочные и С сыро...</p>
+                <div class="main-1product-block-score">
                     <img src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/starred.png" alt=""> <img src="../assets/starred.png" alt=""> <img
                         src="../assets/stargray.png" alt="">
                 </div>
-                <button class="main-product-block-btn">В корзину</button>
+                <button class="main-1product-block-btn">В корзину</button>
             </div>
             <div class="main-product-block">
                 <div class="main-product-block-img">
@@ -343,9 +343,9 @@
                         сайте</span>
 
                 </div>
-                <div class="main-discounts-card-img">
-                    <img src="../assets/severynochka.png" alt="">
-                </div>
+
+                    <img class="main-discounts-card-img" src="../assets/severynochka.png" alt="">
+
 
             </div>
             <div class="main-discounts-cart">
@@ -354,9 +354,9 @@
                     <span class="main-discounts-cart-info-small">И получайте вдвое больше бонусов</span>
 
                 </div>
-                <div class="main-discounts-card-img">
-                    <img src="../assets/imgcart.png" alt="">
-                </div>
+
+                    <img class="main-discounts-cart-img" src="../assets/imgcart.png" alt="">
+
 
             </div>
         </div>
@@ -369,9 +369,9 @@
                 <button class="main-geo-btn-krasno">с. Краснобор</button>
                 <button class="main-geo-btn-deur">д. Диюр</button>
             </div>
-            <div class="main-geo-map">
-                <img src="../assets/map.png" alt="">
-            </div>
+
+                <img class="main-geo-map" src="../assets/map.png" alt="">
+
         </div>
         <div class="main-promo">
             <span class="main-promo-name">Статьи</span>
@@ -381,7 +381,7 @@
         </div>
         <div class="main-news">
             <div class="main-news-card">
-                <img src="../assets/isolation.png" alt="">
+                <img class="main-news-card" src="../assets/isolation.png" alt="">
                 <span class="main-news-card-date">05.03.2021</span>
                 <h3 class="main-news-card-title">Режим использования масок и перчаток на территории магазинов</h3>
                 <p class="main-news-card-text">Подробная информация о режимах использования масок и перчаток на
@@ -390,7 +390,7 @@
                 <button class="main-news-card-more">Подробнее</button>
             </div>
             <div class="main-news-card">
-                <img src="../assets/spring.png" alt="">
+                <img class="main-news-card" src="../assets/spring.png" alt="">
                 <span class="main-news-card-date">05.03.2021</span>
                 <h3 class="main-news-card-title">Режим использования масок и перчаток на территории магазинов</h3>
                 <p class="main-news-card-text">Подробная информация о режимах использования масок и перчаток на
@@ -399,7 +399,7 @@
                 <button class="main-news-card-more">Подробнее</button>
             </div>
             <div class="main-news-card">
-                <img src="../assets/foodversus.png" alt="">
+                <img class="main-news-card" src="../assets/foodversus.png" alt="">
                 <span class="main-news-card-date">05.03.2021</span>
                 <h3 class="main-news-card-title">Режим использования масок и перчаток на территории магазинов</h3>
                 <p class="main-news-card-text">Подробная информация о режимах использования масок и перчаток на
@@ -419,10 +419,10 @@
         <span class="footer-container-text">Политика обработки персональных данных</span>
     </div>
     <div class="footer-link">
-        <img src="../assets/inst.svg" alt="">
-        <img src="../assets/vk.svg" alt="">
-        <img src="../assets/fb.svg" alt="">
-        <img src="../assets/ok.svg" alt="">
+        <img class="footer-link-pict" src="../assets/inst.svg" alt="">
+        <img class="footer-link-pict" src="../assets/vk.svg" alt="">
+        <img class="footer-link-pict" src="../assets/fb.svg" alt="">
+        <img class="footer-link-pict" src="../assets/ok.svg" alt="">
     </div>
     <img src="../assets/phone.svg" alt="">
     </footer>
@@ -605,6 +605,102 @@
         }
     }
 
+    &-1product {
+        width: 1208px;
+        margin-top: 40px;
+        margin-bottom: 120px;
+        border-radius: 4px;
+        display: flex;
+        justify-content: space-between;
+
+        &-block {
+            width: 272px;
+            background-color: #fff;
+            border-radius: 4px;
+
+            &-price {
+                width: 256px;
+                display: flex;
+                justify-content: space-between;
+                margin: 8px;
+
+                &-withcard {
+                    //styleName: Desc/Text-Bold/M;
+                    font-family: Rubik;
+                    font-size: 18px;
+                    font-weight: 700;
+                    line-height: 27px;
+                    text-align: left;
+                    text-underline-position: from-font;
+                    text-decoration-skip-ink: none;
+                    color: #000;
+
+                }
+
+                &-withoutcard {
+                    //styleName: Desc/Text/S;
+                    font-family: Rubik;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    text-align: left;
+                    text-underline-position: from-font;
+                    text-decoration-skip-ink: none;
+                    color: #606060;
+                }
+            }
+
+            &-info {
+                //styleName: Desc/Text/XS;
+                font-family: Rubik;
+                font-size: 12px;
+                font-weight: 400;
+                line-height: 18px;
+                text-align: left;
+                text-underline-position: from-font;
+                text-decoration-skip-ink: none;
+                color: #BFBFBF;
+                margin: 0px 8px 8px 8px;
+
+                display: flex;
+                justify-content: space-between;
+            }
+
+            &-description {
+                margin: 0px 8px 8px 8px;
+                //styleName: Desc/Text/S;
+                font-family: Rubik;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                text-align: left;
+                text-underline-position: from-font;
+                text-decoration-skip-ink: none;
+            }
+
+            &-score {
+                margin: 0px 8px 8px 8px;
+            }
+
+            &-btn {
+                width: 256px;
+                border-color: #70C05B;
+                border-radius: 4px;
+                background-color: #fff;
+                color: #70C05B;
+                padding: 8px;
+                margin: 0px 8px 8px 8px;
+                cursor: pointer;
+
+                :hover {
+                    border: none;
+                    background-color: #FF6633;
+                    color: #fff;
+                }
+            }
+        }
+    }
+    
     &-product {
         width: 1208px;
         margin-top: 40px;
@@ -1000,11 +1096,93 @@
         &-promo{
             width: 736px;
         }
+        &-product{
+            width: 736px;
+            &-block{
+                width: 224px;
+                &-price{
+                    width: 210px;
+                }
+                &-info{
+                    width: 210px;
+                }
+                &-btn{
+                    width: 210px;
 
+                }
+
+            }
+        }
+        &-1product{
+            background-color: #333666;
+            &-block{
+                display: none;
+            }
+        }
+        &-discounts{
+            width: 736px;
+            &-card{
+                width: 352px;
+                &-info{
+                    width: 100px;
+                    margin:10px;
+                }
+                &-img{
+                    width:250px;
+                    height:150px;
+                    margin-top:90px;
+                }
+            }
+            &-cart{
+                width: 352px;
+                &-info{
+                    width: 100px;
+                    margin:10px;
+                }
+                &-img{
+                    width:250px;
+                    height:190px;
+                    margin-top:60px;
+                }
+            }
+        }
         &-geo{
             width: 395px;
+            &-map{
+                width: 736px;
+            }
         }
-        
+        &-news{
+            width: 736px;
+            &-card{
+                width: 230px;
+                &-date{
+                    width: 160px;
+                &-picture{
+                    
+                }
+                
+            }
+        }
     }
+}
+.footer {
+    width: 652px;
+    padding: 12px 58px 19px 58px;
+    &-container {
+        width: 320px;
+        &-text {
+            font-size: 14px;
+            margin: 5px;
+        }
+    }
+    &-link {
+        width: 180px;
+        margin-left: 100px;
+        &-pict{
+            width: 32px;
+        }
+    }
+}
 }
 </style>
