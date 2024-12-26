@@ -993,9 +993,14 @@
         }
     }
     .main{
-        width: 768px;
+        width: 736px;
         padding: 60px 16px;
         background-color: #FBF8EC;
+
+        &-promo{
+            width: 736px;
+        }
+
         &-geo{
             width: 395px;
         }
